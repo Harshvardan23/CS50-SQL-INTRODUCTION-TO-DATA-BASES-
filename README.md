@@ -7,7 +7,7 @@
 - [EDX](Course%20Link/EDX/)
 
 ## 🗂️ Week 0 - Querying
-- [Normals]([WEEK%0%QUERYING/normals](https://github.com/Harshvardan23/CS50-SQL-INTRODUCTION-TO-DATA-BASES-/tree/main/WEEK%200%20QUERYING/normals))
+- [Normals](https://github.com/Harshvardan23/CS50-SQL-INTRODUCTION-TO-DATA-BASES-/tree/main/WEEK%200%20QUERYING/normals)
 - [36 Views](Week%200%20Querying/36%20Views%20or%20Normals/)
 - [Players](Week%200%20Querying/Players/)
 
