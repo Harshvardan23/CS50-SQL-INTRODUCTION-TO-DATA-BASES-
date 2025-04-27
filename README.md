@@ -7,8 +7,8 @@
 - [EDX](Course%20Link/EDX/)
 
 ## 🗂️ Week 0 - Querying
-- [Cyberchase](Week%200%20Querying/Cyberchase/)
-- [36 Views or Normals](Week%200%20Querying/36%20Views%20or%20Normals/)
+- [Normals](WEEK 0 QUERYING/normals)
+- [36 Views](Week%200%20Querying/36%20Views%20or%20Normals/)
 - [Players](Week%200%20Querying/Players/)
 
 ## 🗂️ Week 1 - Relating
