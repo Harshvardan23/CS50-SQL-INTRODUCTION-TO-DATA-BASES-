@@ -7,7 +7,7 @@
 - [EDX](Course%20Link/EDX/)
 
 ## 🗂️ Week 0 - Querying
-- [Normals](WEEK 0 QUERYING/normals)
+- [Normals](WEEK%0%QUERYING/normals)
 - [36 Views](Week%200%20Querying/36%20Views%20or%20Normals/)
 - [Players](Week%200%20Querying/Players/)
 
